@@ -15,6 +15,10 @@ updated: 2021-01-20 11:56:00 +0800
 >
 > [平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛兄）](https://pingmin.blog/post/loving-our-greater-china.html)
 
+
+“**我可以以我认为合适的方式行动。我深信每个人都应该这样，即担负起自己的责任。有人会反对说这没有用处。我的回答十分简单：有用。**” ——瓦茨拉夫·哈维尔(Václav Havel, 19361005 - 20111218)
+
+
 ### 1. 宪法第三十五条（The Article 35 of Constitution of The PRC）
 
 #### 简体中文（Simplified Chinese）
