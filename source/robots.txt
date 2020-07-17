@@ -9,6 +9,7 @@ sitemap: /sitemap.xml
 
 User-Agent: Googlebot
 Allow: /p/*.html
+Disallow: /post/
 Disallow: /tags
 Disallow: /categories
 Disallow: /archives
@@ -23,6 +24,7 @@ Disallow: /js
 Disallow: /css
 Disallow: /she
 Disallow: /jobs
+Disallow: /fos
 
 
 #User-Agent: Bingbot
@@ -31,6 +33,7 @@ User-Agent: *
 #Allow: /about
 #Allow: /guides
 Allow: /p/*.html
+Disallow: /post/
 Disallow: /tags
 Disallow: /categories
 Disallow: /archives
@@ -45,9 +48,10 @@ Disallow: /js
 Disallow: /css
 Disallow: /she
 Disallow: /jobs
+Disallow: /fos
 
 
 #
 # Pingmin Fenlly Liu
-# 20170904 - 20200713
+# 20170904 - 20200717
 #
