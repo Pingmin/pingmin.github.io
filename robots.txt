@@ -1,0 +1,15 @@
+#
+# robots.txt for pingmin.github.io
+#
+
+User-Agent: *
+Allow: /$
+#Allow: /*.html$
+#Disallow: /img/
+Disallow: /
+
+
+#
+# Pingmin Fenlly Liu
+# 20170904 - 20200731
+#
