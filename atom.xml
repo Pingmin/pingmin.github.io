@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>平民·寻梦（Pingmin Fenlly Liu）</title>
+  <title>平民·梦（Pingmin Dream）</title>
   
   <subtitle>“士不可以不弘毅，任重而道远 / 路漫漫其修远兮，吾将上下而求索”</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://pingmin.me/</id>
   
   <author>
-    <name>平民 (Pingmin Fenlly Liu)</name>
+    <name>平民（Pingmin Fenlly Liu）</name>
     
   </author>
   
