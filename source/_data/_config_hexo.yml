@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: '平民·寻梦（Pingmin Fenlly Liu）'
-subtitle: '“士不可以不弘毅，任重而道远 / 路漫漫其修远兮，吾将上下而求索”'
-description: '平民（Pingmin Fenlly Liu）的个人主页'
-keywords: 平民·寻梦,平民寻梦,平民,寻梦,Pingmin Fenlly Liu,Pingmin F. Liu,Pingmin Liu,博客,刘水良,Pingmin
-author: '平民 (Pingmin Fenlly Liu)'
+title: "平民·梦（Pingmin Dream）"
+subtitle: "“士不可以不弘毅，任重而道远 / 路漫漫其修远兮，吾将上下而求索”"
+description: "平民的个人网站（Pingmin Fenlly Liu's Personal Website）"
+keywords: "平民·寻梦,平民寻梦,平民·梦,平民梦,平民,寻梦,平,Pingmin Fenlly Liu,Pingmin F. Liu,Pingmin Liu,博客,刘水良,Pingmin"
+author: "平民（Pingmin Fenlly Liu）"
 language:
 - zh-CN
 - zh-TW
