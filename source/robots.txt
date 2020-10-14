@@ -11,8 +11,7 @@ sitemap: /sitemap.xml
 #User-Agent: Bingbot
 #User-Agent: Baiduspider
 User-Agent: *
-Allow: /$
-Allow: /p/*.html
+Allow: /p/*.html$
 #Disallow: /
 Disallow: /about
 Disallow: /guides
