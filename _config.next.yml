@@ -42,6 +42,7 @@ scheme: Muse
 #scheme: Gemini
 
 # Dark Mode
+#darkmode: false
 darkmode: true
 
 
@@ -138,7 +139,7 @@ sidebar:
 avatar:
   # Replace the default image and set the url here.
   #url: #/images/avatar.gif
-  url:  /images/think-copyleft.png
+  url: /images/think-copyleft.png
   # If true, the avatar will be dispalyed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
@@ -168,6 +169,7 @@ social:
   Twitter: https://twitter.com/iPingmin || fab fa-twitter
   FB Page: https://www.facebook.com/iPingmin || fab fa-facebook
   #WeChat(Public): 平民梦PingminDream || fab fa-weixin
+
 
 social_icons:
   enable: true
@@ -219,7 +221,7 @@ language_switcher: false
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  #since: 2015
+  ##since: 2015
   since: 2007
 
   # Icon between year and copyright info.
@@ -494,7 +496,8 @@ disable_baidu_transformation: false
 
 # If true, site-subtitle will be added to index page.
 # Remember to set up your site-subtitle in Hexo `_config.yml` (e.g. subtitle: Subtitle)
-index_with_subtitle: false
+#index_with_subtitle: false
+index_with_subtitle: true
 
 # Automatically add external URL with Base64 encrypt & decrypt.
 exturl: false
