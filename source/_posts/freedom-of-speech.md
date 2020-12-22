@@ -24,7 +24,7 @@ updated: 2020-12-22 12:43:38 +0800
 
 注（Notes）：
 
-內地现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行，随后历经 1988、1993、1999、2004 和 2018 五次修正（最近一次为 2018 年 3 月 11 日第十三届全国人民代表大会第一次会议通过并公布施行）。
+大陆现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行，随后历经 1988、1993、1999、2004 和 2018 五次修正（最近一次为 2018 年 3 月 11 日第十三届全国人民代表大会第一次会议通过并公布施行）。
 
 其中，宪法第 35 条，自 1982 年以来未曾变过。
 
@@ -35,7 +35,7 @@ updated: 2020-12-22 12:43:38 +0800
 
 > The only part of the conduct of any one, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.
 >
-> 任何人的行为，只有涉及他人的那一部分才必须要对社会负责。在仅仅关涉他人的那一部分，他的独立性照理说来就是绝对的。对于他自己，对于其身体和心灵，个人就是最高主权者。
+> 任何人的行为，只有涉及他人的那一部分才必须要对社会负责。在仅仅关涉他自己的那一部分，他的独立性照理说来就是绝对的。对于他自己，对于其身体和心灵，个人就是最高主权者。
 
 > The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation, to a little more of administrative skill, or that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes—will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything, will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.
 >
