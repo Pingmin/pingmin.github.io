@@ -1,8 +1,8 @@
 ---
 title: 言论自由（Freedom Of Speech）
-author: 第五届全国人大宪法修改委员会（1982）
+author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）
 date: 2007-06-04 20:29:36 +0800
-updated: 2020-09-21 12:06:43 +0800
+updated: 2020-12-22 12:43:38 +0800
 ---
 
 ## 宪法第三十五条 (The Article 35 of Constitution of The PRC)
@@ -23,12 +23,21 @@ updated: 2020-09-21 12:06:43 +0800
 
 ### 按（Notes）
 
-现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行，随后历经 1988、1993、1999、2004 和 2018 五次修正（最近一次为 2018 年 3 月 11 日第十三届全国人民代表大会第一次会议通过并公布施行）。
+现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行，随后历经 1988、1993、1999、2004 和 2018 五次修正（最近一次为 2018 年 3 月 11 日第十三届全国人民代表大会第一次会议通过并公布施行）。其中，宪法第 35 条，自 1982 年以来未曾变过。
 
-其中，宪法第 35 条，自 1982 年以来未曾变过。
+
+## 论自由（On Liberty）
+
+> The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation, to a little more of administrative skill, or that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes—will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything, will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.
+>
+> 从长远来看，国家的价值，归根结底还是组成这个国家的个人的价值；一个国家为了在各项具体事务中使管理更加得心应手，或为了从这种具体实践中获取更多类似技能，而把国民智力拓展和精神提升的利益放在一旁；一个国家为了要使它的人民成为它手中更为驯服的工具，哪怕是为了有益的目的，而使人民渺小，终将会发现，弱小的国民毕竟不能成就任何伟业；它为了达到机器的完善而不惜牺牲一切，到头来却将一无所获，因为它缺少活力，那活力已然为了机器更加顺利地运转而宁可扼杀掉了。
+>
+>    ——约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》（英文原版于 1859 年在英国出版，中文翻译摘自孟凡礼所译版（2011 年出版，2019 年再版，推荐））
+
 
 ## 印记(Imprint)
 
 （1）20070604（大概）：首次接觸于大一下學期在讀期间。
 （2）20180707：增加法條英文的翻譯，並作爲一篇单獨的文章首次公開於個人微信公衆號“平民梦PingminDream”。
 （3）20200921：顯示注明作者，並增加按語。
+（4）20201222：添加《论自由（On Liberty）》摘錄內容。
