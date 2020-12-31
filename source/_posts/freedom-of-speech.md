@@ -11,9 +11,9 @@ updated: 2020-12-30 12:29:38 +0800
 
 ## 正文(Body)
 
-> ![平民泰山玉皇頂兩中華旗（Pingmin on Mount Tai with Two Flags of China, 20131004）（攝影：劉紅衛）](https://pingmin.me/img/loving-our-greater-china/20131004-LOGC-TFC-PRC-Shandong-Mount-Tai-Jade-Emperor-Peak-Photographed-by-Liu-Hongwei.jpg "平民泰山玉皇頂兩中華旗（Pingmin on Mount Tai with Two Flags of China, 20131004）（攝影：劉紅衛）")
+> ![平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）](https://pingmin.me/img/loving-our-greater-china/20131004-LOGC-TFC-PRC-Shandong-Mount-Tai-Jade-Emperor-Peak-Photographed-by-Liu-Hongwei.jpg "平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）")
 >
-> [平民泰山玉皇頂兩中華旗（Pingmin on Mount Tai with Two Flags of China, 20131004）（攝影：劉紅衛）](/post/loving-our-greater-china.html)
+> [平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）](/post/loving-our-greater-china.html)
 
 ### 1. 宪法第三十五条（The Article 35 of Constitution of The PRC）
 
@@ -94,6 +94,7 @@ updated: 2020-12-30 12:29:38 +0800
 （2）20180707：增加法條英文的翻譯，並作爲一篇单獨的文章首次公開於個人微信公衆號“平民梦PingminDream”。
 （3）20200921：顯示注明作者，並增加按語。
 （4）20201222：添加《论自由（On Liberty）》摘錄內容。
-（5）20201230：添加第 3，第 4 与第 5 小节内容。
+（5）20201228：顯示平民在泰山的兩中華旗留影，並增加平民相應博客文章鏈接。
+（6）20201230：添加第 3、4、5 小节内容。
 （Next）xxxx：更新了xxx。
 （Todo）待做：同步英文翻译。
