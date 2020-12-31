@@ -1,6 +1,6 @@
 ---
 title: 言论自由（Freedom Of Speech）
-author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）
+author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）等
 date: 2007-06-04 20:29:36 +0800
 updated: 2020-12-30 12:29:38 +0800
 ---
