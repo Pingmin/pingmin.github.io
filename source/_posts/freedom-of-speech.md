@@ -46,12 +46,12 @@ updated: 2020-12-30 12:29:38 +0800
 
 > The only part of the conduct of any one, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.
 >
-> 任何人的行为，只有涉及他人的那一部分才必须要对社会负责。在仅仅关涉他自己的那一部分，他的独立性照理说来就是绝对的。对于他自己，对于其身体和心灵，个人就是最高主权者。
+> 任何人的行为，只有涉及他人的那一部分才必须要对社会负责。在仅仅关涉他自己的那一部分，他的独立性照理说来就是绝对的。对于他自己，对于其身体和心灵，个人就是最高主权者。 （孟凡礼所译之 2011 版第 10 页）
 
 
 > The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation, to a little more of administrative skill, or that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes—will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything, will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.
 >
-> 从长远来看，国家的价值，归根结底还是组成这个国家的个人的价值；一个国家为了在各项具体事务中使管理更加得心应手，或为了从这种具体实践中获取更多类似技能，而把国民智力拓展和精神提升的利益放在一旁；一个国家为了要使它的人民成为它手中更为驯服的工具，哪怕是为了有益的目的，而使人民渺小，终将会发现，弱小的国民毕竟不能成就任何伟业；它为了达到机器的完善而不惜牺牲一切，到头来却将一无所获，因为它缺少活力，那活力已然为了机器更加顺利地运转而宁可扼杀掉了。
+> 从长远来看，国家的价值，归根结底还是组成这个国家的个人的价值；一个国家为了在各项具体事务中使管理更加得心应手，或为了从这种具体实践中获取更多类似技能，而把国民智力拓展和精神提升的利益放在一旁；一个国家为了要使它的人民成为它手中更为驯服的工具，哪怕是为了有益的目的，而使人民渺小，终将会发现，弱小的国民毕竟不能成就任何伟业；它为了达到机器的完善而不惜牺牲一切，到头来却将一无所获，因为它缺少活力，那活力已然为了机器更加顺利地运转而宁可扼杀掉了。 （孟凡礼所译之 2011 版第 138 页）
 
 
 ### 3. 四大自由（The Four Freedom）
