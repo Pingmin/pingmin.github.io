@@ -2,7 +2,7 @@
 title: 言论自由（Freedom Of Speech）
 author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）等
 date: 2007-06-04 20:29:36 +0800
-updated: 2020-12-30 12:29:38 +0800
+updated: 2021-01-20 11:56:00 +0800
 ---
 
 ## 概要(Abstract)
@@ -39,7 +39,34 @@ updated: 2020-12-30 12:29:38 +0800
 其中，宪法第 35 条，自 1982 年以来未曾变过。
 
 
-### 2. 论自由（On Liberty）
+### 2. 世界人权宣言（Universal Declaration of Human Rights, UDHR）
+
+#### English（英文）
+
+> The Article 1
+>
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+>
+> The Article 19
+>
+> Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.
+>
+> —— [Universal Declaration of Human Rights (UDHR)](https://www.un.org/en/universal-declaration-human-rights/), 1948
+
+#### 简体中文（Simplified Chinese）
+
+> 第一条
+>
+> 人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。
+>
+> 第十九条
+>
+> 人人有权享有主张和发表意见的自由；此项权利包括持有主张而不受干涉的自由；通过任何媒介或不论国界，寻求、接受和传递消息与思想的自由。
+>
+> —— [《世界人权宣言》](https://www.un.org/zh/universal-declaration-human-rights/)，1948
+
+
+### 3. 论自由（On Liberty）
 
 以下摘自**约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》**（英文原版于 1859 年在英国出版，最早由清朝末期**严复**先生翻译并以《群己权界论》为书名于 1903 年在国内出版，以下中文翻译则摘自**孟凡礼**所译版（2011 年出版，2019 年再版，推荐））：
 
@@ -54,7 +81,7 @@ updated: 2020-12-30 12:29:38 +0800
 > 从长远来看，国家的价值，归根结底还是组成这个国家的个人的价值；一个国家为了在各项具体事务中使管理更加得心应手，或为了从这种具体实践中获取更多类似技能，而把国民智力拓展和精神提升的利益放在一旁；一个国家为了要使它的人民成为它手中更为驯服的工具，哪怕是为了有益的目的，而使人民渺小，终将会发现，弱小的国民毕竟不能成就任何伟业；它为了达到机器的完善而不惜牺牲一切，到头来却将一无所获，因为它缺少活力，那活力已然为了机器更加顺利地运转而宁可扼杀掉了。 （孟凡礼所译之 2011 版第 138 页）
 
 
-### 3. 四大自由（The Four Freedom）
+### 4. 四大自由（The Four Freedoms）
 
 富兰克林·罗斯福（Franklin D. Roosevelt）的四大自由（19410106）：言论自由、信仰自由、免于匮乏的自由、免于恐惧的自由。
 
@@ -75,18 +102,18 @@ updated: 2020-12-30 12:29:38 +0800
 > 第四是免除恐惧的自由——这种自由，就世界范围来讲，就是世界性的裁减军备，要以一种彻底的方法把它裁减到这样的程度：务使世界上没有一个国家有能力向全世界任何地区的任何邻国进行武力侵略。
 
 
-### 4. 温饱、监狱与自由（The Food, Clothes, Prison and Freedom）
+### 5. 温饱、监狱与自由（The Food, Clothes, Prison and Freedom）
 
-德怀特·艾森豪威尔（Dwight D. Eisenhower）（平民暂未能考证原始出处）：
+德怀特·艾森豪威尔（Dwight D. Eisenhower）（平民暂未能考证出原始出处）：
 
 > If you want total security, go to prison. There you're fed, clothed, given medical care and so on. The only thing lacking... is freedom.
 >
-> 如果人民只满足于温饱，那还不如呆在监狱里。
+> 如果人民只满足于温饱，那他们还不如呆在监狱里。
 
 
-### 5. 中国共产党在野党时期言论精选（Quotes of CPC before 1949）
+### 6. 中国共产党在野党时期言论精选（Quotes of CPC Before 1949）
 
-參見《[中國共產黨在野黨時期言論精選（Quotes of CCP/CPC before 1949）](https://pingmin.blog/post/quotes-of-ccp-before-1949.html)》。
+參見《[中國共產黨在野黨時期言論精選（Quotes of CCP/CPC Before 1949）](https://pingmin.blog/post/quotes-of-ccp-before-1949.html)》。
 
 ## 印记(Imprints)
 
@@ -96,5 +123,6 @@ updated: 2020-12-30 12:29:38 +0800
 （4）20201222：添加《论自由（On Liberty）》摘錄內容。
 （5）20201228：顯示平民在泰山的兩中華旗留影，並增加平民相應博客文章鏈接。
 （6）20201230：添加第 3、4、5 小节内容。
+（7）20210120：增加《世界人權宣言（Universal Declaration of Human Rights, UDHR）》相關內容與鏈接等。
 （Next）xxxx：更新了xxx。
 （Todo）待做：同步英文翻译。
