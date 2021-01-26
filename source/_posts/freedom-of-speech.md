@@ -1,5 +1,5 @@
 ---
-title: 言论自由（Freedom Of Speech）
+title: 言论自由（Freedom of Speech）
 author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）等
 date: 2007-06-04 20:29:36 +0800
 updated: 2021-01-20 11:56:00 +0800
@@ -7,13 +7,13 @@ updated: 2021-01-20 11:56:00 +0800
 
 ## 概要(Abstract)
 
-目前，如果讓平民只說一句話，那就是：“言論自由（Freedom Of Speech）”！
+目前，如果讓平民只說一句話，那就是：“言論自由（Freedom of Speech）”！
 
 ## 正文(Body)
 
-> ![平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）](https://pingmin.me/img/loving-our-greater-china/20131004-LOGC-TFC-PRC-Shandong-Mount-Tai-Jade-Emperor-Peak-Photographed-by-Liu-Hongwei.jpg "平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）")
+> ![平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛兄）](https://pingmin.me/img/loving-our-greater-china/20131004-LOGC-TFC-PRC-Shandong-Mount-Tai-Jade-Emperor-Peak-Photographed-by-Liu-Hongwei.jpg "平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛兄）")
 >
-> [平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛）](/post/loving-our-greater-china.html)
+> [平民泰山玉皇頂兩中華旗（Pingmin on the Jade Emperor Peak of Mount Tai with Two Flags of China, 20131004）（攝影：紅衛兄）](https://pingmin.blog/post/loving-our-greater-china.html)
 
 ### 1. 宪法第三十五条（The Article 35 of Constitution of The PRC）
 
@@ -34,9 +34,9 @@ updated: 2021-01-20 11:56:00 +0800
 
 按（Notes）：
 
-大陆现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行，随后历经 1988、1993、1999、2004 和 2018 五次修订（最近一次为 2018 年 3 月 11 日第十三届全国人民代表大会第一次会议通过并公布施行）。
+大陆现行的 1982 年宪法，是以 1954 年宪法为基础，在时任全国人民代表大会常委会副委员长彭真同志主持下起草，1982 年 11 月完成，[第五届全国人民代表大会第五次会议于 1982 年 12 月 4 日通过并公布施行](http://www.npc.gov.cn/wxzl/wxzl/2000-12/06/content_4421.htm)，随后历经 1988、1993、1999、2004 和 2018 五次修订（最近一次为 2018 年 3 月 11 日[第十三届全国人民代表大会第一次会议通过并公布施行](http://www.xinhuanet.com/politics/2018lh/2018-03/22/c_1122572202.htm)）。
 
-其中，宪法第 35 条，自 1982 年以来未曾变过。
+其中，[宪法第 35 条，自 1982 年以来未曾变过](http://www.npc.gov.cn/wxzl/wxzl/2000-12/06/content_4421.htm)。
 
 
 ### 2. 世界人权宣言（Universal Declaration of Human Rights, UDHR）
@@ -121,7 +121,7 @@ updated: 2021-01-20 11:56:00 +0800
 （2）20180707：增加法條英文的翻譯，並作爲一篇单獨的文章首次公開於個人微信公衆號“平民梦PingminDream”。
 （3）20200921：顯示注明作者，並增加按語。
 （4）20201222：添加《论自由（On Liberty）》摘錄內容。
-（5）20201228：顯示平民在泰山的兩中華旗留影，並增加平民相應博客文章鏈接。
+（5）20201228：顯示平民在泰山的兩中華旗留影，並增加[其相應的平民博客中的文章鏈接](https://pingmin.blog/post/loving-our-greater-china.html)。
 （6）20201230：添加第 3、4、5 小节内容。
 （7）20210120：增加《世界人權宣言（Universal Declaration of Human Rights, UDHR）》相關內容與鏈接等。
 （Next）xxxx：更新了xxx。
