@@ -1,3 +1,10 @@
+## 2.0.0 (2021-01-29)
+
+- Upgrade Hexo to v5.2.0 .
+- Upgrade theme NexT to v8.0.2 .
+- Add new digests and quotes into the "Freedom of Speech(FOS)" post.
+- Display my photo of "Two Flags of China(TFC)" on Mount Tai(20131004).
+
 ## 1.0.0 (2020-07-13)
 
 - Rebuild the https://pingmin.me (Published on 20120902) as my main site,
