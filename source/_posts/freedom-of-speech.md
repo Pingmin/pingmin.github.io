@@ -41,7 +41,28 @@ updated: 2021-01-20 11:56:00 +0800
 
 ### 2. 论自由（On Liberty）
 
-以下摘自**约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》**（英文原版于 1859 年在英国出版，最早由清朝末期**严复**先生翻译并以《群己权界论》为书名于 1903 年在国内出版，以下中文翻译则摘自**孟凡礼**所译版（2011 年出版，2019 年再版，推荐））：
+以下摘自**约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》**（英文原版于 1859 年在英国出版，最早由清朝末期**严复**先生翻译并以**《群己权界论》**为书名于 1903 年在国内出版，以下中文翻译则摘自**孟凡礼**所译版（[2011 年出版](https://book.douban.com/subject/6397522/)，[2019 年再版](https://book.douban.com/subject/30394971/)，推荐））：
+
+
+> [On Liberty](https://www.bartleby.com/people/Mill-JS.html)
+>
+> Contents
+>
+> I. Introductory
+> Ⅱ. Of the Liberty of Thought and Discussion
+> Ⅲ. Of Individuality, as One of the Elements of Well-Being
+> Ⅳ. Of the Limits to the Authority of Society over the Individual
+> Ⅴ. Applications
+>
+> [论自由](https://book.douban.com/subject/30394971/)
+>
+> 目录
+>
+> 第一章 引论
+> 第二章 论思想言论自由
+> 第三章 论作为幸福因素之一的个性自由
+> 第四章 论社会权力之于个人的限度
+> 第五章 论自由原则的应用
 
 
 > The only part of the conduct of any one, for which he is amenable to society, is that which concerns others. In the part which merely concerns himself, his independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.
