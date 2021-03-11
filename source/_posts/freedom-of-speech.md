@@ -2,7 +2,7 @@
 title: 言论自由（Freedom of Speech）
 author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）等
 date: 2008-06-04 20:29:36 +0800
-updated: 2021-01-20 11:56:00 +0800
+updated: 2021-03-11 19:10:13 +0800
 ---
 
 ## 概要(Abstract)
@@ -45,7 +45,7 @@ updated: 2021-01-20 11:56:00 +0800
 
 ### 2. 论自由（On Liberty）
 
-以下摘自**约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》**（英文原版于 1859 年在英国出版，最早由清朝末期**严复**先生翻译并以**《群己权界论》**为书名于 1903 年在国内出版，以下中文翻译则摘自**孟凡礼**所译版（[2011 年出版](https://book.douban.com/subject/6397522/)，[2019 年再版](https://book.douban.com/subject/30394971/)，推荐））：
+以下摘自**约翰·穆勒（John Stuart Mill）《论自由（On Liberty）》**（英文原版于 1859 年在英国出版，最早由清朝末期**严复**先生翻译并以**《群己权界论》**为书名于 1903 年在国内出版，以下中文翻译则摘自**孟凡礼**所译版（[2011 年出版](https://book.douban.com/subject/6397522/)，[2019 年再版](https://book.douban.com/subject/30394971/)，推荐；另，感兴趣的话，可参阅[伯林的《自由论》](https://book.douban.com/subject/6052799/)和[姜新艳的《穆勒：为了人类的幸福》](https://book.douban.com/subject/20491177/)等）：
 
 
 > [On Liberty](https://www.bartleby.com/people/Mill-JS.html)
@@ -100,7 +100,6 @@ updated: 2021-01-20 11:56:00 +0800
 > 第四是免除恐惧的自由——这种自由，就世界范围来讲，就是世界性的裁减军备，要以一种彻底的方法把它裁减到这样的程度：务使世界上没有一个国家有能力向全世界任何地区的任何邻国进行武力侵略。
 >
 > —— Franklin D. Roosevelt（富兰克林·罗斯福），19410106
-
 
 
 ### 4. 世界人权宣言（Universal Declaration of Human Rights, UDHR）
@@ -164,6 +163,19 @@ updated: 2021-01-20 11:56:00 +0800
 參見《[中國共產黨在野黨時期言論精選（Quotes of CCP/CPC Before 1949）](https://pingmin.blog/post/quotes-of-ccp-before-1949.html)》。
 
 
+## 参考(References)
+
+这里主要列一下相关的书籍：
+
+（1）穆勒《论自由》：[豆瓣](https://book.douban.com/subject/30394971/)，[京东](https://item.jd.com/12519359.html)。
+
+（2）伯林《自由论》：[豆瓣](https://book.douban.com/subject/6052799/)，[京东](https://item.jd.com/12671168.html)。
+
+（3）姜新艳《穆勒：为了人类的幸福》：[豆瓣](https://book.douban.com/subject/20491177/)，[京东](https://item.jd.com/11157885.html)。
+
+（以上书籍链接皆检索于 20210311，如有失效，欢迎留言或通过[iMessage、邮件等](https://pingmin.blog/about/#平民-Pingmin-Fenlly-Liu)告知平民，谢谢！）
+
+
 ## 印记(Imprints)
 
 （1）20080604（大概）：自 2007 年春季開學後不久買了電腦開始，因逐漸受自由、開放的開源文化的引導與影響，平民首次接觸“言論自由”和“憲法第三十五條”于大學在讀期间（2008）。
@@ -173,5 +185,6 @@ updated: 2021-01-20 11:56:00 +0800
 （5）20201228：顯示平民在泰山的兩中華旗留影，並增加[其相應的平民博客中的文章鏈接](https://pingmin.blog/post/loving-our-greater-china.html)。
 （6）20201230：添加“四大自由”、“溫飽與自由”和“中共早期言論”相關内容。
 （7）20210120：增加《世界人權宣言（Universal Declaration of Human Rights, UDHR）》相關內容與鏈接等。
+（8）20210311：增加“参考(References)”小節内容，即穆勒《論自由》、伯林《自由論》和姜新豔《穆勒：為了人類的幸福》書籍相關鏈接。
 （Next）xxxx：更新了xxx。
 （Todo）待做：同步英文翻译。
