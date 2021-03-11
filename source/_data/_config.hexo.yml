@@ -127,7 +127,7 @@ theme: next
 deploy:
   type: git
   repo: ssh://git@github.com/Pingmin/pingmin.github.io.git
-  branch: master
+  branch: gh-pages
 
 
 # Feed
@@ -139,7 +139,7 @@ feed:
   hub:
   content:
 
-# sitemap
+# Sitemap
 sitemap:
   path: sitemap.xml
 baidusitemap:
