@@ -1,3 +1,11 @@
+
+## 2.1.0 (2021-03-17)
+
+- Upgrade Hexo to v5.4.0 .
+- Upgrade theme NexT to v8.2.2 .
+- Add the favicon.ico .
+- Amend the FOS post.
+
 ## 2.0.0 (2021-01-29)
 
 - Upgrade Hexo to v5.2.0 .
