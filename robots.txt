@@ -3,16 +3,16 @@
 #
 
 # Sitemaps
-sitemap: /sitemap.xml
-#sitemap: /baidusitemap.xml
+Sitemap: /sitemap.xml
+#Sitemap: /baidusitemap.xml
 
 # Robots
 #User-Agent: Googlebot
 #User-Agent: Bingbot
 #User-Agent: Baiduspider
 User-Agent: *
+Allow: /$
 Allow: /p/*.html$
-#Disallow: /
 Disallow: /about
 Disallow: /guides
 Disallow: /post
