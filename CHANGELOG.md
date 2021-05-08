@@ -1,3 +1,9 @@
+## 2.2.0 (2021-05-08)
+
+- Update to NPM v7.12 .
+- Update to Hexo v5.4 (globally).
+- Update to NexT v8.4 .
+
 ## 2.1.1 (2021-05-08)
 
 - Add the new 'References' with 3 books info for the FOS post.
