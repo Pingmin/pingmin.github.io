@@ -1,3 +1,6 @@
+## 2.1.1 (2021-05-08)
+
+- Add the new 'References' with 3 books info for the FOS post.
 
 ## 2.1.0 (2021-03-17)
 
