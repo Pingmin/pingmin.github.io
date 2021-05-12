@@ -2,12 +2,12 @@
 title: 言论自由（Freedom of Speech）
 author: 第五届全国人大宪法修改委员会（1982）、约翰·穆勒（John Stuart Mill）等
 date: 2008-06-04 20:29:36 +0800
-updated: 2021-03-11 19:10:13 +0800
+updated: 2021-05-12 20:54:28 +0800
 ---
 
 ## 概要(Abstract)
 
-目前，如果讓平民只說一句話，那就是：“言論自由（Freedom of Speech）”！
+目前，如果讓平民只說一句話，那就是：“[言論自由（Freedom of Speech）](https://zh.wikipedia.org/wiki/言論自由)”！
 
 ## 正文(Body)
 
@@ -175,6 +175,8 @@ updated: 2021-03-11 19:10:13 +0800
 
 （以上书籍链接皆检索于 20210311，如有失效，欢迎留言或通过[iMessage、邮件等](https://pingmin.blog/about/#平民-Pingmin-Fenlly-Liu)告知平民，谢谢！）
 
+另可参见维基百科词条“[言论自由](https://zh.wikipedia.org/zh-cn/言論自由)”（需科学上网）等。
+
 
 ## 印记(Imprints)
 
@@ -186,5 +188,6 @@ updated: 2021-03-11 19:10:13 +0800
 （6）20201230：添加“四大自由”、“溫飽與自由”和“中共早期言論”相關内容。
 （7）20210120：增加《世界人權宣言（Universal Declaration of Human Rights, UDHR）》相關內容與鏈接等。
 （8）20210311：增加“参考(References)”小節内容，即穆勒《論自由》、伯林《自由論》和姜新豔《穆勒：為了人類的幸福》書籍相關鏈接。
+（9）20210512：添加維基百科同名詞條鏈接。
 （Next）xxxx：更新了xxx。
 （Todo）待做：同步英文翻译。
