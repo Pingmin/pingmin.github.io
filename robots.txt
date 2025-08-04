@@ -4,6 +4,9 @@
 
 User-Agent: *
 Allow: /$
+Allow: /blog/$
+#Allow: /blog/
+Allow: /blog/*.html$
 #Allow: /*.html$
 #Disallow: /img/
 Disallow: /
