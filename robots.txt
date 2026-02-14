@@ -7,9 +7,9 @@ Allow: /$
 Allow: /www/$
 #Allow: /www/
 Allow: /www/*.html$
-Allow: /blog/$
-#Allow: /blog/
-Allow: /blog/*.html$
+##Allow: /blog/
+#Allow: /blog/$
+#Allow: /blog/*.html$
 #Allow: /*.html$
 #Disallow: /img/
 Disallow: /
