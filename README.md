@@ -4,9 +4,9 @@
 
 [https://pingmin.github.io](https://pingmin.github.io)
 
-## [Pingmin Homepage](https://pingmin.github.io/www/)
+## [Pingmin Homepage](https://liuzeping.github.io/)
 
-[https://pingmin.github.io/www/](https://pingmin.github.io/www/)
+[https://liuzeping.github.io/](https://liuzeping.github.io/)
 
 ## [Pingmin Blog](https://pingmin.github.io/blog/)
 
@@ -36,4 +36,4 @@ Thanks!
 
 > Pingmin Fenlly Liu
 >
-> 20170904, 20250726
+> 20170904, 20250726, 20260322
