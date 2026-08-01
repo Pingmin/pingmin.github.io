@@ -1,22 +1,24 @@
 # Pingmin Websites Hosted by GitHub Pages
 
-## [Pingmin GitHub Default Website](https://pingmin.github.io)
+## [Pingmin GitHub Default Website](https://pingmin.github.io/)
 
-[https://pingmin.github.io](https://pingmin.github.io)
+[https://pingmin.github.io](https://pingmin.github.io/)
 
-## [Pingmin Homepage](https://liuzeping.github.io/)
+## [Pingmin Homepage](https://www.pingmin.me/)
 
-[https://liuzeping.github.io/](https://liuzeping.github.io/)
+[https://www.pingmin.me/](https://www.pingmin.me/)
 
-## [Pingmin Blog](https://pingmin.github.io/blog/)
+## [Pingmin Blog](https://blog.pingmin.me/)
 
-[https://pingmin.github.io/blog/](https://pingmin.github.io/blog/)
+[https://blog.pingmin.me/](https://blog.pingmin.me/)
+
+  > [https://pingmin.github.io/blog/](https://pingmin.github.io/blog/) (Backup)
 
 ### Special Recommendation / 特別推薦 / 特别推荐
 
-[乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)](https://pingmin.github.io/blog/post/find-what-you-love-by-steve-jobs.html "乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)")
+[乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)](https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/ "乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)") ([Backup]((https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/))
 
-[https://pingmin.github.io/blog/post/find-what-you-love-by-steve-jobs.html](https://pingmin.github.io/blog/post/find-what-you-love-by-steve-jobs.html)
+[https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/](https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/) (Backup: [https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/](https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/))
 
 ## [Pingmin MicroBlog Backup](https://pingmin.github.io/microblog/)
 
@@ -34,6 +36,10 @@
 Thanks!
 
 
-> Pingmin Fenlly Liu
+> [Pingmin Fenlly Liu](https://www.pingmin.me/)
 >
-> 20170904, 20250726, 20260322
+> 20170904
+>
+> 20250726
+>
+> 20260322, 0726, 0801
