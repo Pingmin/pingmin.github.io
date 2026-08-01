@@ -26,7 +26,7 @@
 
 [https://pingmin.github.io/microblog/tencent-weibo/](https://pingmin.github.io/microblog/tencent-weibo/)
 
-[https://pingmin.github.io/microblog/sina-weibo/](https://pingmin.github.io/microblog/sina-weibo/)
+<!-- [https://pingmin.github.io/microblog/sina-weibo/](https://pingmin.github.io/microblog/sina-weibo/) -->
 
 ## [Pingmin Image and Library Website](https://pingmin.github.io/img/)
 
