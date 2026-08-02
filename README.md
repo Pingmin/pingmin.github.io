@@ -16,7 +16,7 @@
 
 ### Special Recommendation / 特別推薦 / 特别推荐
 
-[乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)](https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/ "乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)") ([Backup]((https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/))
+[乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)](https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/ "乔布斯 2005 斯坦福大学演讲：找到你所爱(Find What You Love, by Steve Jobs, Stanford Commencement Address, 2005)") ([Backup](https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/))
 
 [https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/](https://blog.pingmin.me/p/find-what-you-love-by-steve-jobs/) (Backup: [https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/](https://pingmin.github.io/blog/p/find-what-you-love-by-steve-jobs/))
 
